@@ -15,22 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="first_ver.cpp">
+    <ClCompile Include="01_first_ver.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="second_ver.cpp">
+    <ClCompile Include="02_second_ver.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="third_ver.cpp">
+    <ClCompile Include="03_third_ver.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="fourth_ver.cpp">
+    <ClCompile Include="04_fourth_ver.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="fifth_ver.cpp">
+    <ClCompile Include="05_fifth_ver.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="sixth_ver.cpp">
+    <ClCompile Include="06_sixth_ver.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="07_seventh_ver.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
